@@ -1,2 +1,1 @@
-# healthagent
-Enterprise HealthAgent 
+Enterprise HealthAgent – Neuromorph‑inspirierter Gesundheits‑Agent
